@@ -14,7 +14,6 @@ public class ExeP1 {
 		int op;
 		
 		do {
-			
 			System.out.println("\n****************************************");
 			System.out.println("\n1- Adicionar livro na pilha");
 			System.out.println("\n2- Listar todos os livros da pilha");
